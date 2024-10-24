@@ -5,7 +5,7 @@ This is a Python script that transforms string format vulnerability results into
 ## Usage
 
 ```
-python HexToASCII.py -if <input_file> [-x] [-d <delimiter>]
+python hexToASCII.py -if <input_file> [-x] [-d <delimiter>]
 ```
 
 ## Arguments
